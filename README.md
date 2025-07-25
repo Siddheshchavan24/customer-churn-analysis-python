@@ -72,5 +72,5 @@ Feel free to fork the repo and submit a pull request with improvements!
 
 ## 📬 Contact
 Connect with me on [LinkedIn](www.linkedin.com/in/siddheshchavan24)  
-GitHub: [@YourGitHubUsername](https://github.com/Siddheshchavan24)
+GitHub: [@Siddhesh chavan](https://github.com/Siddheshchavan24)
 
